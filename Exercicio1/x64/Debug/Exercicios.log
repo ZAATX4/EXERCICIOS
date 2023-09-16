@@ -1,0 +1,43 @@
+﻿  Exercicios.cpp
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,31): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,31): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,44): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,44): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,57): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,57): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,70): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,70): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,83): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,83): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,96): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,96): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,109): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,109): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,122): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,122): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,135): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,135): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,148): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,148): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  Segundo.cpp
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,31): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,31): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,44): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,44): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,57): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,57): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,70): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,70): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,83): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,83): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,96): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,96): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,109): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,109): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,122): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,122): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,135): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,135): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,148): error C2397: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ZAATx4\source\repos\Exercicios\Exercicios\Segundo.h(11,148): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  Gerando Código...
