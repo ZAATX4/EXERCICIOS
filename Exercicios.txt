@@ -1,0 +1,9 @@
+Crie um Algoritmo em C++ em que o usuário informa os gastos com alimentação de 5 famílias, calcula a média de gastos e diz se o gastos estão na média abaixo da média ou acima da média.
+
+Crie um Algoritmo em C++ em que o usuário informa a dimensão de uma matriz e os elementos de duas matrizes (ambas com a mesma dimensão) e o Algortmo mostra a soma entre estas duas matrizes.
+
+Crie um Algoritmo em C++ que o usuário informa o tamanho de um vetor e seus elementos. O Algoritmo deve imprimir este vetor e logo após perguntar ao usuário se eel quer imprimir outro vetor. Utilize o delete apos a impressão do vetor.
+
+Crie um Algoritmo em C++ utilizando apenas ponteiros em  que o usuário informa a idade de duas pessoas, e o Algoritmo informa a média destas duas idades.
+
+Crie um Algoritmo em C++ que tenha uma função que recebe dois ponteiros e troca o valor de referencia entre os dois.
