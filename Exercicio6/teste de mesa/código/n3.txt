@@ -1,0 +1,3 @@
+for (bla bla bla); cout "informe seus gastos"; cin renda[i]
+
+A ideia é um loop de for para atribuir todos os valores com uma só linha de código

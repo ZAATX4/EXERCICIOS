@@ -1,0 +1,2 @@
+n# = número do procedimento
+a# = a alternátiva do procedimento (as vezes não vai ter esse)

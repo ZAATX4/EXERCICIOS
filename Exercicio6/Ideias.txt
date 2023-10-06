@@ -1,0 +1,2 @@
+Fazer um controle de fluxo simples para adicionar vários valores e o programa funcionar com uma quantidade ABSURDA de valores.
+Fazer um for para então imprimir a média de todos os valores dentro da array

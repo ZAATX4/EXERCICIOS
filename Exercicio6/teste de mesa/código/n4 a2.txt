@@ -1,0 +1,6 @@
+for (size_t i = 0; i < (sizeof gastos / sizeof(float)); i++)
+{
+	somatório = gastos[i];
+}
+
+	media = somatório / (sizeof gastos / sizeof(float));

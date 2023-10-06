@@ -1,0 +1,11 @@
+while (whil = true){
+	cout << "bora? << endl << "1 se sim";
+	cin >> seilá;
+	if(seialá = 1){
+	
+	//código lá que faz o trem tudo
+	}
+	else{
+		break;
+	}
+}

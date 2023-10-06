@@ -1,0 +1,2 @@
+A ideia é fazer uma váriavel pra armazenar a soma dos bagulhos, porque talvez eu não possa/consiga somar os valores como está escrito na alternativa 1.
+Então a segunda alternativa é fazer um loop de for que soma os valores da array e aplica nessa váriavel.

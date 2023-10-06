@@ -1,0 +1,3 @@
+(float) media = (gastos[1] + [2] + [3] + [4] + [5]) / (sizeof renda / sizeof(float));
+
+Uma tentativa de somar todos os valores da array com uma só linha de código
