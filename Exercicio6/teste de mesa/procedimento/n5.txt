@@ -1,4 +1,0 @@
-Tenho a ideia de fazer um for.
-Para conseguir atribuir quantos valores eu QUISER, inclusive prefirivel em while.
-Para assim quando eu quiser parar... eu paro.
-Vamos tentar fazer algo apenas com 5 por enquanto.

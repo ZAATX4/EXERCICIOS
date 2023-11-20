@@ -1,0 +1,6 @@
+Armazenar os valores sertinho (se possivel multipla implementação com cin)
+
+UMA IDEIA MELHOR ME PASSA PELA CABEÇA
+
+Um loop de while para poder atribuir vários valores como opcional.
+"ah se que atribuir mais um valor? 1 se sim 2 se não"

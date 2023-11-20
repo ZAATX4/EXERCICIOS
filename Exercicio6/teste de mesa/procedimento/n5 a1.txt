@@ -1,0 +1,3 @@
+Fazer um for para comparar a média e cada renda familiar.
+A ideia é usar o mesmo esquema de size of e gastos[i] para conseguir fazer isso com valores INDEFINIDOS.
+Eu vou usar switch case nesse caso, como são apenas 3 opções acho valido.

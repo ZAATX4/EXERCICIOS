@@ -1,0 +1,13 @@
+	cout << "manda ai sua renda familiar querida
+	For(bla bla bla sizeof){
+	cin >> gastos[i]
+
+	switch(media){
+	case = gastos[i]:
+	cout << "tá na média";
+	case > gastos[i]:
+	cout << "abaixo da média";
+	case < gastos[i]:
+	cout << "acima da média";
+	}
+}

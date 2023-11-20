@@ -1,4 +1,4 @@
-Crie um Algoritmo em C++ em que o usuário informa os gastos com alimentação de 5 famílias, calcula a média de gastos e diz se o gastos estão na média abaixo da média ou acima da média.
+Crie um Algoritmo em C++ em que o usuário informa os gastos com alimentação de 5 famílias, calcula a média de gastos e diz se os gastos estão na média abaixo da média ou acima da média.
 
 Crie um Algoritmo em C++ em que o usuário informa a dimensão de uma matriz e os elementos de duas matrizes (ambas com a mesma dimensão) e o Algortmo mostra a soma entre estas duas matrizes.
 

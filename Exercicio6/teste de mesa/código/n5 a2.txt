@@ -1,0 +1,15 @@
+	cout << "manda ai sua renda familiar querida
+	For(bla bla bla sizeof){
+	cin >> gastos[i]
+
+	if (gastos[i] = media){
+		cout << "tá na média";
+	}
+	else if (gastos[i] < media){
+		cout << "tá abaixo da média";
+	}
+	else if (gastos[i] > media){
+		cout << "tá acima da média";
+	}
+	}
+}

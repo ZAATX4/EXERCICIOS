@@ -5,11 +5,53 @@
 
 using namespace std;
 
+float med()
+{
+	float media, somatorio, gastos[9];
+
+	for (size_t i = 0; i < (sizeof gastos[i] /  sizeof(float)); i++)
+	{
+		somatorio = gastos[i];
+	}
+	media = somatorio / ((sizeof gastos[0]) / sizeof(float));
+
+	return media;
+}
+
 int main()
 {
-    std::cout << "Hello World!\n";
+	float seila;
+	//bool whil;
+    cout << "Hello World!\n";
 
-    cout << "Me dê a renda das familias ae meu bom" << endl;
+	cout << "vem um trem do beleleu \n aquele blah blah blah de 1 e 2" << endl;
+
+	cout << med();
+	/*cin >> seila;
+	if (seila = 1)
+	{
+		for (size_t i = 0; i < (sizeof med(0000) / sizeof(float)); i++)
+		{
+			cin >> med(gastos[i]);
+			cout << "Quer adicionar um novo valor? \n 1 se sim, 2 se não";
+			cin >> seila;
+		}
+	}
+	else
+	{
+		break;
+	}*/
+	/*while (whil = true)
+	{
+		if (seila = 1)
+		{
+			cin >> med();
+		}
+		else
+		{
+			break;
+		}
+	}*/
 	
 }
 

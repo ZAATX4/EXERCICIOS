@@ -1,0 +1,12 @@
+	cout << "adicionar renda";
+	cout << "1 se sim 2 se não";
+	cin >> seila;
+while (whil = true){
+	
+	if (seila = 1){
+		cin >> med(gastos[]);
+		}
+		else{
+		break;
+		}
+}

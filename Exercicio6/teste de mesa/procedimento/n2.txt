@@ -1,1 +1,2 @@
-Fazer um vetor para armazenar todos os valores
+Fazer um vetor para armazenar todos os valores.
+Esse vetor não deve ter limite.

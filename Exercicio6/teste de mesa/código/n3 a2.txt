@@ -1,0 +1,14 @@
+	cout << "adicionar renda";
+	cout << "1 se sim 2 se não";
+	cin >> seila;
+if(seila = 1){
+for(blablabla sizeof){
+	
+	cin >> med(gastos[]);
+	cout "quer adicionar mais um valor 1 se sim 2 se não";
+	cin >> seila;
+}
+else{
+	break
+	}
+}
